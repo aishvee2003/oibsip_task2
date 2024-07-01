@@ -29,6 +29,4 @@ It also takes __Age__ as input from user for storing the data in a text file nam
 python3 BMI.py
 ```  
 
-## Demo:  
 
-https://github.com/Debang5hu/OIBSIP/assets/114200360/d9223492-0389-41a5-87c4-24289493eff0
